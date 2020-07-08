@@ -23,7 +23,7 @@ def moveZeros2(nums):
     return None
 
 class Solution:
-    def moveZeroes(self, nums):
+    def moveZeroes(self, nums: List[int])->None:
         j = 0
         n = len(nums)
         for num in nums:
