@@ -1,3 +1,4 @@
+import os
 # Complete the sockMerchant function below.
 def sockMerchant(n, ar):
     cont = 0
